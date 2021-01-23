@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12952" started-at="2020-06-11T17:41:15 IST" finished-at="2020-06-11T17:41:28 IST">
+  <suite name="Default suite" duration-ms="11053" started-at="2020-12-06T19:05:09 IST" finished-at="2020-12-06T19:05:20 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12952" started-at="2020-06-11T17:41:15 IST" finished-at="2020-06-11T17:41:28 IST">
+    <test name="Default test" duration-ms="11053" started-at="2020-12-06T19:05:09 IST" finished-at="2020-12-06T19:05:20 IST">
       <class name="test.ExtentXReportBasicDemoWithTestNg">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:test.ExtentXReportBasicDemoWithTestNg@4bbfb90a]" name="setUp" is-config="true" duration-ms="122" started-at="2020-06-11T17:41:15 IST" finished-at="2020-06-11T17:41:15 IST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.ExtentXReportBasicDemoWithTestNg@7f13d6e]" name="setUp" is-config="true" duration-ms="111" started-at="2020-12-06T19:05:09 IST" finished-at="2020-12-06T19:05:09 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUpTest()[pri:0, instance:test.ExtentXReportBasicDemoWithTestNg@4bbfb90a]" name="setUpTest" is-config="true" duration-ms="3693" started-at="2020-06-11T17:41:15 IST" finished-at="2020-06-11T17:41:19 IST">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:test.ExtentXReportBasicDemoWithTestNg@7f13d6e]" name="setUpTest" is-config="true" duration-ms="3805" started-at="2020-12-06T19:05:09 IST" finished-at="2020-12-06T19:05:13 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:test.ExtentXReportBasicDemoWithTestNg@4bbfb90a]" name="test1" duration-ms="2735" started-at="2020-06-11T17:41:19 IST" finished-at="2020-06-11T17:41:22 IST">
+        <test-method status="PASS" signature="test1()[pri:0, instance:test.ExtentXReportBasicDemoWithTestNg@7f13d6e]" name="test1" duration-ms="3685" started-at="2020-12-06T19:05:13 IST" finished-at="2020-12-06T19:05:17 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:test.ExtentXReportBasicDemoWithTestNg@4bbfb90a]" name="test2" duration-ms="1647" started-at="2020-06-11T17:41:22 IST" finished-at="2020-06-11T17:41:23 IST">
+        <test-method status="PASS" signature="test2()[pri:0, instance:test.ExtentXReportBasicDemoWithTestNg@7f13d6e]" name="test2" duration-ms="2908" started-at="2020-12-06T19:05:17 IST" finished-at="2020-12-06T19:05:20 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:test.ExtentXReportBasicDemoWithTestNg@4bbfb90a]" name="tearDownTest" is-config="true" duration-ms="4853" started-at="2020-06-11T17:41:23 IST" finished-at="2020-06-11T17:41:28 IST">
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:test.ExtentXReportBasicDemoWithTestNg@7f13d6e]" name="tearDownTest" is-config="true" duration-ms="633" started-at="2020-12-06T19:05:20 IST" finished-at="2020-12-06T19:05:20 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.ExtentXReportBasicDemoWithTestNg@4bbfb90a]" name="tearDown" is-config="true" duration-ms="245" started-at="2020-06-11T17:41:28 IST" finished-at="2020-06-11T17:41:28 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.ExtentXReportBasicDemoWithTestNg@7f13d6e]" name="tearDown" is-config="true" duration-ms="254" started-at="2020-12-06T19:05:20 IST" finished-at="2020-12-06T19:05:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
